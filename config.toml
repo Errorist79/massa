@@ -1,5 +1,5 @@
 [network]
-routable_ip = "IP_SERVER"
+routable_ip = "EXTERNAL_IP"
 
 [bootstrap]
 bootstrap_list = [
